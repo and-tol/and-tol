@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://vk.com/id102592425">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
-</a>
+
 <a href="https://twitter.com/tolstoi_andrei">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
